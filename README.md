@@ -3,7 +3,7 @@ Hi there 👋, As developer always passionate about learning new technolgies. St
 
 
 - 🔭 I’m currently working on .Net Core 3.1, Identity Server 4
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning `OAuth 2.0 and OpenID Connect`
 - 💬 Ask me about `C#, JavaScript, TypeScript, .Net Core, Angular, Node.js with Express, SQL Server etc`
 
 <br/>
