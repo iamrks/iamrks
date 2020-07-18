@@ -8,4 +8,4 @@ Hi there 👋, As developer always passionate about learning new technolgies. St
 
 <br/>
 
-📫 Feel free to contact me : [![LinkedIn](https://github.com/iamrks/iamrks/blob/master/linkedin.png)](https://www.linkedin.com/in/iamrks/)
+📫 Feel free to contact me : [![LinkedIn](https://www.linkedin.com/in/iamrks/)
