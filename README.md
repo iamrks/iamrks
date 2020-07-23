@@ -1,5 +1,5 @@
 # Ravi Kant Sharma [![HitCount](http://hits.dwyl.com/iamrks/iamrks.svg)](http://hits.dwyl.com/iamrks/iamrks)
-Hi there 👋, As developer always passionate about learning new technolgies. Started career as intern with C# .Net MVC for web application development and today working as Full Stack Developer and loves to work with new technologies and share my expirience with the people. 
+Hi there 👋, As developer always passionate about learning new technology. Started career as intern with C# .Net MVC web application development and today working as Full Stack Developer and loves to work with new technologies and share my expirience with the people. 
 
 
 - 🔭 Currently working on .Net Core 3.1, Identity Server 4
